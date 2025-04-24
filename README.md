@@ -15,8 +15,8 @@ An intelligent credit risk assessment system that uses machine learning to predi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Credit-Risk-Project.git
-cd Credit-Risk-Project
+git clone https://github.com/Kpreya/Credit-Risk-Prediction-tool.git
+cd Credit-Risk-Prediction-tool
 ```
 
 2. Create and activate virtual environment:
